@@ -1,0 +1,9 @@
+.main-text {
+    font-family: 'RobotoCondensedL';
+    font-size: larger;
+    letter-spacing: 2px;
+}
+.author {
+   /* font-weight: 900; */
+    font-family: 'RobotoCondensedB';
+}

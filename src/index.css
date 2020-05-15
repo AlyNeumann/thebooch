@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Creepster-Regular';
+  src: local('Creepster-Regular'), url(./Fonts/Creepster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoCondensedL';
+  src: local('RobotoCondensedL'), url(./Fonts/RobotoCondensed-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoCondensedB';
+  src: local('RobotoCondensedB'), url(./Fonts/RobotoCondensed-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anton-Regular';
+  src: local('Anton-Regular'), url(./Fonts/Anton-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'EvilOfFrankenstein-Shadow';
+  src: local('EvilOfFrankenstein-Shadow'), url(./Fonts/EvilOfFrankenstein-Shadow.ttf) format('truetype');
+}
